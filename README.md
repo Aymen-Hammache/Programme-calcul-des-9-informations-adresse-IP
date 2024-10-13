@@ -1,5 +1,5 @@
 
-# Calculateur 9 informations réseau d'une adresse IP avec son CIDR pour calculatrice Numworks
+# Calculateur 9 informations réseau d'une adresse IP avec son CIDR (également fonctionnel sur calculatrice Numworks)
 
 Voici un programme permettant de trouver le masque de sous réseau, l'adresse de diffusion, la première adresse hôte, la dernière adresse hôte, le nombre total d'adresses et le nombre d'hôtes disponible à partir d'une adresse IP et de son CIDR
 
